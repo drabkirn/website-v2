@@ -7,7 +7,6 @@ import purgecss from "astro-purgecss";
 // https://astro.build/config
 export default defineConfig({
   site: "https://drabkirn.cdadityang.xyz",
-  trailingSlash: "never",
   prefetch: true,
   build: {
     inlineStylesheets: "never"
