@@ -1,16 +1,133 @@
 ---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Card from "../components/Card.astro";
+import Navbar from "../components/Navbar.astro";
+import Footer from "../components/Footer.astro";
 
+// Icons
+import GithubIcon from "../images/icons/github.svg";
+import XIcon from "../images/icons/x.svg";
+import InstagramIcon from "../images/icons/instagram.svg";
+import DiscordIcon from "../images/icons/discord.svg";
 ---
 
-<html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<meta name="viewport" content="width=device-width" />
-		<meta name="generator" content={Astro.generator} />
-		<title>Astro</title>
-	</head>
-	<body>
-		<h1>Astro</h1>
-	</body>
-</html>
+<BaseLayout
+  title=""
+  description="Create the world out of the things that you build. A passion project by @cdadityang."
+  keywords="drabkirn, cdadityang, feedka, notga, botja, open-source, privacy, aditya, aditya nagla"
+>
+  <Navbar />
+
+  <!-- Hero Section -->
+  <section class="mt-5">
+    <div class="container">
+      <div class="row justify-content-center">
+        <div class="col-12 col-lg-6">
+          <div class="text-center">
+            <h1>Drabkirn</h1>
+            <p class="lead">
+              Create the world out of the things that you build
+            </p>
+            <p class="">
+              A passion project by <a
+                href="https://cdadityang.xyz"
+                target="_blank"
+                class="fw-bold text-secondary-emphasis">@cdadityang</a
+              > - a space to build open-source projects, experiment with ideas, and
+              learn out loud. Dive in, contribute, or just watch it evolve - one
+              commit at a time.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Projects Section -->
+  <section class="mt-4">
+    <div class="container">
+      <div class="row justify-content-center">
+        <div class="col-12 col-lg-6">
+          <div>
+            <h3>Projects:</h3>
+
+            <Card
+              title="Feedka"
+              description="Get authentic, kindful, and constructive feedback from your friends, family, and co-workers. Automated scheduling of feedback, built-in moderation with AI and encryption for privacy and security."
+              codeLink="https://github.com/drabkirn/feedka"
+            />
+
+            <Card
+              title="Notga"
+              description="A Blockstack app to take free, private, secure, unlimited, end-to-end encrypted, and decentralized notes in markdown/WYSIWYG(What You See Is What You Get) editor."
+              codeLink="https://github.com/drabkirn/notga"
+            />
+
+            <Card
+              title="Botja"
+              description="A cross-platform chatbot that can tell you quotes, entertain you with jokes, suggest you movies and make calculations for you."
+              codeLink="https://github.com/drabkirn/botja"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Social Section -->
+  <section class="mt-5">
+    <div class="container">
+      <div class="row justify-content-center">
+        <div class="col-12 col-lg-6">
+          <div class="d-flex justify-content-center gap-4">
+            <div>
+              <a
+                href="https://github.com/drabkirn"
+                target="_blank"
+                rel="noopener"
+                aria-label="Visit drabkirn's GitHub"
+              >
+                <GithubIcon />
+              </a>
+            </div>
+
+            <div>
+              <a
+                href="https://x.com/drabkirn"
+                target="_blank"
+                rel="noopener"
+                aria-label="Visit drabkirn's X profile"
+              >
+                <XIcon />
+              </a>
+            </div>
+
+            <div>
+              <a
+                href="https://www.instagram.com/drabkirn"
+                target="_blank"
+                rel="noopener"
+                aria-label="Visit drabkirn's Instagram profile"
+              >
+                <InstagramIcon />
+              </a>
+            </div>
+
+            <div>
+              <a
+                href="https://discordapp.com/invite/wFPtMUY"
+                target="_blank"
+                rel="noopener"
+                aria-label="Join drabkirn's discord server"
+              >
+                <DiscordIcon />
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <Footer />
+</BaseLayout>

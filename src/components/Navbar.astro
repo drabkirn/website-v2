@@ -1,0 +1,52 @@
+---
+// Icons
+import MoonIcon from "../images/icons/moon.svg";
+import SunIcon from "../images/icons/sun.svg";
+import HomeIcon from "../images/icons/home.svg";
+---
+
+<nav class="navbar bg-body-tertiary shadow-sm border-bottom sticky-top">
+  <div class="container">
+    <div class="row w-100 d-flex justify-content-center">
+      <div class="col-12 col-lg-6">
+        <div class="d-flex justify-content-between align-items-center">
+          <a
+            class="d-flex align-items-center gap-2 text-decoration-none"
+            href="/"
+          >
+            <img
+              src="/images/drabkirn-logo-180x180.png"
+              alt="Drabkirn Logo"
+              width="30"
+              height="30"
+              class="d-inline-block align-text-top"
+            />
+            <span class="navbar-brand mb-0 h1">Drabkirn</span>
+          </a>
+          <div class="d-flex align-items-center gap-3">
+            <a href="/" class="text-decoration-none" aria-label="Visit home">
+              <HomeIcon />
+            </a>
+
+            <!-- Theme Switch -->
+            <span
+              class="theme-icon theme-icon-sun d-none dark-mode-svg-stroke-white"
+              aria-hidden="true"
+              role="button"
+            >
+              <MoonIcon />
+            </span>
+
+            <span
+              class="theme-icon theme-icon-moon dark-mode-svg-stroke-white"
+              aria-hidden="true"
+              role="button"
+            >
+              <SunIcon />
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</nav>

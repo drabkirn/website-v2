@@ -1,0 +1,19 @@
+---
+const { title, description, codeLink } = Astro.props;
+---
+
+<div class="card mb-4">
+  <div class="card-header">
+    <h5 class="card-title mb-0">{title}</h5>
+  </div>
+  <div class="card-body">
+    <div>
+      <p class="card-text">{description}</p>
+    </div>
+  </div>
+  <div class="card-footer">
+    <div class="d-flex justify-content-end gap-2">
+      <a href={codeLink} class="btn btn-secondary" target="_blank">GitHub</a>
+    </div>
+  </div>
+</div>

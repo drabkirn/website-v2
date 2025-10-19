@@ -1,0 +1,32 @@
+{
+  "name": "Drabkirn",
+  "short_name": "Drabkirn",
+  "description": "Create the world out of the things that you build. A passion project by @cdadityang.",
+  "id": "/",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#2A2D31",
+  "theme_color": "#2A2D31",
+  "lang": "en",
+  "dir": "ltr",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/images/favicon-16x16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/drabkirn-logo-180x180.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
