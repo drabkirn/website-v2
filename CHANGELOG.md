@@ -7,6 +7,7 @@ All notable changes to this project will be documented in this file.
 - Website structure and SEO complete
 - All pages completed
 - Purge CSS, Sitemap complete
+- Updated README
 
 ## 1.0.0
 ### Changes
