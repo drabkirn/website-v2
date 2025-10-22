@@ -20,6 +20,7 @@
 - HTML, CSS, JavaScript
 - Bootstrap
 - Astro
+  - With PurgeCSS, PostCSS to optimize CSS builds
 
 ## Installation
 1. Clone the repository
