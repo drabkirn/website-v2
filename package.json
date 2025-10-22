@@ -19,6 +19,7 @@
     "purgecss": "^7.0.2"
   },
   "devDependencies": {
+    "@axe-core/playwright": "^4.11.0",
     "@playwright/test": "^1.56.1",
     "@types/node": "^24.9.1"
   }

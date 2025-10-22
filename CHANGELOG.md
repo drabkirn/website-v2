@@ -2,8 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## 1.0.6 - Accessibility Tests Added
+### Changes
+- Added Axe Accessibility tests via Playwright to all pages
+
 ## 1.0.5 - CLA added
-## Changes
+### Changes
 - Broken CLA link added
 
 ## 1.0.4 - Playwright Integration

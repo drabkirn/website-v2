@@ -1,11 +1,15 @@
 import { test, expect } from '@playwright/test';
-import { testNavbar, testFooter } from './common';
+import { testNavbar, testFooter, testAccessibility } from './common';
 
 const pagePath = '/privacy_policy';
 
 test.describe('navbar and footer elements', () => {
   test.beforeEach(async ({ page }) => {
     await page.goto(pagePath);
+  });
+
+  test('accessibility elements', async ({ page }) => {
+    await testAccessibility(page);
   });
 
   test('navbar elements', async ({ page }) => {

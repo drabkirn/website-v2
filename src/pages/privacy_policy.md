@@ -21,7 +21,7 @@ Throughout this policy:
 
 -----
 
-### Scope of this policy
+## Scope of this policy
 Drabkirn and all of its products(including this very website) are entirely open-source, and we're actively building them considering your privacy in mind.
 
 This privacy policy applies to the information obtained by us through your use of our website, products, and other online activities(like interacting with us on social media accounts).
@@ -30,10 +30,10 @@ The terms used in this policy have the same meanings as in our Terms and Conditi
 
 -----
 
-### Information collection and use
+## Information collection and use
 When you interact with our website and services, we collect information that could be used to identify you, a.k.a "Personal Data." Some of the Information we collect is stored in a manner that cannot be linked back to you, a.k.a "Non-personal Data."
 
-#### Information you provide us directly
+### Information you provide us directly
 1. When you use our website and services, we might ask you to provide your first name and email address to us.
     - We use this to:
       - Contact you about updates from Drabkirn.
@@ -58,10 +58,10 @@ When you interact with our website and services, we collect information that cou
 
 4. We use this information to contact you regarding this Agreement in case there is a breach or other issues about this Agreement. Our CLA outlines all the details which you can find at [Drabkirn CLA](/legal/cla "visit our CLA page").
 
-#### Information collected by us automatically
+### Information collected by us automatically
 We use, process, and store your Information as necessary to administer our website and services, and develop new features.
 
-##### Analytics
+#### Analytics
 A web analytics platform is used by a website owner to measure, collect, analyze, and report visitors data for purposes of understanding and optimizing their website.
 
 We use Umami Analytics to perform website analytics. We self-host Umami on our server, accessible at [https://webuma.cdadityang.xyz](https://webuma.cdadityang.xyz "visit our analytics page"), and all of the data we collect stays on our server securely.
@@ -95,7 +95,7 @@ We use Umami Analytics to perform website analytics. We self-host Umami on our s
 
 -----
 
-##### Botja
+#### Botja
 Botja is an open-source chatbot application that can do most of the things to make your life easier and faster.
 
 You can always self-host Botja, whose codebase is accessible at [GitHub](https://github.com/drabkirn/botja "visit botja github website"). Currently Botja is live on [Discord](https://go.cdadityang.xyz/discord "drabkirn discord channel").
@@ -108,7 +108,7 @@ You can always self-host Botja, whose codebase is accessible at [GitHub](https:/
 
 -----
 
-### Data Storage and Security
+## Data Storage and Security
 Information provided or collected by Drabkirn will be processed and stored in Bangalore, India.
 
 Drabkirn does not sell or rent your personal information. We'll share your personal information with the third party only if we have your explicit consent.
@@ -121,13 +121,13 @@ Drabkirn takes reasonable measures to protect our website(s) and services, which
 
 -----
 
-### About Third-party privacy policies
+## About Third-party privacy policies
 Drabkirn's privacy policy does not apply to other websites. The following third-party services may have their own privacy policies, and we recommend you to review them:
     - DigitalOcean(DO): We use DO's cloud server to host our website and other products. You can find DO's privacy policy at [https://www.digitalocean.com/legal/privacy-policy/](https://www.digitalocean.com/legal/privacy-policy/ "visit digitalocens's privacy polic page").
 
 -----
 
-### Children's Information
+## Children's Information
 One of our main priority is adding protection for children under the age of 13. If you are under the age of 13, please do not submit any personal information to us.
 
 We encourage parents and legal guardians to monitor their children’s Internet activity on our website(s) and services and instruct them to never provide personal information to us.
@@ -138,10 +138,10 @@ If you think that your child has provided any information on our website, we str
 
 -----
 
-### Changes to this privacy policy
+## Changes to this privacy policy
 As Drabkirn improves, we may need to update this policy. When we make changes, we will revise the "Last Updated" date at the top of this page. We advise you to review this page periodically for any changes.
 
 -----
 
-### Contact us
+## Contact us
 We're always keen to hear from you. If you have any questions or any feedback for us about this policy, you may contact us at [drabkirn@cdadityang.xyz](mailto:drabkirn@cdadityang.xyz "our official email address").

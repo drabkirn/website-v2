@@ -36,7 +36,7 @@ You must accept and agree to the following Agreement for your past, present, and
 
 -----
 
-### Originality of work
+## Originality of work
 You represent that each of your contributions is entirely your original work. Should you wish to submit materials(or code) that are not your original work, you may submit them separately to the project if you:
 1. Retain all the copyright and license information that was in the materials as you received them,
 
@@ -48,7 +48,7 @@ If your contribution is made as a part of your employment with past or present e
 
 -----
 
-### Licenses
+## Licenses
 1. **Copyright license:** You grant us, and those who receive the contribution directly or indirectly from us, a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license in the contribution to reproduce, prepare derivative works of, publicly display, publicly perform, and distribute the contribution and such derivative works, and to sublicense any or all of the preceding rights to third parties.
 
 2. **Patent license:** You grant us, and those who receive the contribution directly or indirectly from us, a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable license under your patent claims that are necessarily infringed by the contribution or the combination of the contributions with the project to which it was submitted to make, have made, use, offer to sell, sell and import or otherwise dispose of the contribution alone or with the project.
@@ -57,17 +57,17 @@ If your contribution is made as a part of your employment with past or present e
 
 -----
 
-### Warranty Disclaimer
+## Warranty Disclaimer
 You are not expected to provide support for Your contributions, except to the extent you desire to provide support. You may provide support for free, for a fee, or not at all. Unless required by applicable law or agreed to in writing, you provide your contributions on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied, including, without limitation, any warranties or conditions of TITLE, NON- INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A PARTICULAR PURPOSE.
 
 -----
 
-### Notice to Drabkirn
+## Notice to Drabkirn
 You agree to notify Drabkirn in writing of any facts or circumstances of which you later become aware that would make your representations in this Agreement inaccurate in any respect.
 
 -----
 
-### Miscellaneous
+## Miscellaneous
 1. You agree that contributions to projects and information about contributions may be maintained indefinitely and disclosed publicly, including Your name and other information that you submit with your submission.
 
 2. This Agreement and all disputes, claims, actions, suits or other proceedings arising out of this Agreement or relating in any way to it shall be governed by the laws of India excluding its private international law provisions.
@@ -76,5 +76,5 @@ You agree to notify Drabkirn in writing of any facts or circumstances of which y
 
 -----
 
-### Contact us
+## Contact us
 We’re always keen to hear from you. If you have any questions or any feedback for us about this policy, you may contact us at [drabkirn@cdadityang.xyz](mailto:drabkirn@cdadityang.xyz "our official email address").
