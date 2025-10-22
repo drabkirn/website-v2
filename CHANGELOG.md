@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## 1.0.4 - Playwright Integration
+### Changes
+- Added Playwright integration
+- Wrote E2E tests for current pages and features
+- CI integration
+
 ## 1.0.3 - CSS Bundling Improvements
 ### Changes
 - Added PostCSS config with autoprefixer and CSSNano
