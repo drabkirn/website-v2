@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file.
 
+## 1.0.5 - CLA added
+## Changes
+- Broken CLA link added
+
 ## 1.0.4 - Playwright Integration
 ### Changes
 - Added Playwright integration

@@ -56,7 +56,7 @@ When you interact with our website and services, we collect information that cou
     - GitHub username, and
     - Receive your employer(s) name if you're contributing on behalf of some organization.
 
-4. We use this information to contact you regarding this Agreement in case there is a breach or other issues about this Agreement. Our CLA outlines all the details which you can find at [Drabkirn CLA](/cla "visit our CLA page").
+4. We use this information to contact you regarding this Agreement in case there is a breach or other issues about this Agreement. Our CLA outlines all the details which you can find at [Drabkirn CLA](/legal/cla "visit our CLA page").
 
 #### Information collected by us automatically
 We use, process, and store your Information as necessary to administer our website and services, and develop new features.
