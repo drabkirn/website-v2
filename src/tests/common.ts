@@ -1,4 +1,10 @@
 import { expect, type Page } from '@playwright/test';
+import AxeBuilder from '@axe-core/playwright';
+
+export async function testAccessibility(page: Page) {
+  const accessibilityScanResults = await new AxeBuilder({ page }).analyze()
+  expect(accessibilityScanResults.violations).toEqual([]);
+}
 
 export async function testNavbar(page: Page) {
   const navbar = page.getByRole('navigation');

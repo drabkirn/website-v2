@@ -23,24 +23,24 @@ This document is a legal agreement between Drabkirn and you. If you do not agree
 
 -----
 
-### Security and Privacy
+## Security and Privacy
 Please check our privacy policy, accessible at [https://drabkirn.cdadityang.xyz/privacy_policy](/privacy_policy "visit our privacy policy page"), in which we explain what information we collect, why, and how we process and handle that information.
 
 -----
 
-### License
+## License
 Unless otherwise stated, Drabkirn owns the intellectual property rights for all material on Drabkirn. All intellectual property rights are reserved.
 
 Drabkirn's and its products logo, name, slogans, statements are not trademarked, but still, you cannot copy, redistribute or republish them. We believe in a free and open world, so we've open-sourced all of the Drabkirn, and we expect you to support us on this. However, you can reproduce, modify our products by following the license of a specific product.
 
-#### Drabkirn Quotes
+### Drabkirn Quotes
 Drabkirn Quotes, a collection of quotes from Drabkirn, source code is open-source under AGPL-V3.0, which you can find at our [GitHub repository](https://github.com/drabkirn/quotes "quotes github repository"). However, you cannot copy or redistribute the Quotes content(i.e., the quote(s) itself) without our consent. However, you can share our quotes with others or include it on your website through our API, provided you put a proper attribution as "Drabkirn Quotes" or provide a link to our Quotes website.
 
 If you think Drabkirn's or any of its products logo, name, slogans, quotes, or statements represent yours, please contact us through the end of this policy.
 
 -----
 
-### Termination and Prohibition
+## Termination and Prohibition
 We may terminate or suspend any or all of our services without prior notice or liability, for any reason whatsoever, including without limitation if you breach the terms. If you wish to delete any of your data that we have, please contact us. You can read our privacy policy, accessible at [https://drabkirn.cdadityang.xyz/privacy_policy](/privacy_policy "visit our privacy policy page"), for more information on how we use personal data.
 
 You are prohibited, and we reserve the right to suspend you from using this website, and it's products if you do the following:
@@ -55,22 +55,22 @@ You are prohibited, and we reserve the right to suspend you from using this webs
 
 -----
 
-### Warranty Disclaimer
+## Warranty Disclaimer
 You use our website and the products at your own risk. The website and the products are provided on an "As Is, As Available" basis. We shall have no responsibility or liability for any content appearing on our website and services. We disclaim all responsibility for any loss, claim, liability, or damage of any kind resulting from our website, including but not limited to, technical inaccuracies, typographical errors, or malicious/outdated links.
 
 -----
 
-### Third-party links
+## Third-party links
 We provide some third-party links on our websites and products for references or to navigate to other websites. Drabkirn has no control over the content, privacy policies, or practices of any such websites. If you choose to access these third-party websites, you acknowledge that we are not responsible for any content or damage caused on such websites.
 
 We strongly advise you to read the legal documents of any third-party websites that you visit.
 
 -----
 
-### Changes to these terms
+## Changes to these terms
 Drabkirn reserves the right to modify or replace these terms at any time. When we make changes, we will revise the "Last Updated" date at the top of this page. We advise you to review this page periodically for any changes.
 
 -----
 
-### Contact us
+## Contact us
 We're always keen to hear from you. If you have any questions or any feedback for us about this policy, you may contact us at [drabkirn@cdadityang.xyz](mailto:drabkirn@cdadityang.xyz "our official email address").

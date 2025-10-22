@@ -1,7 +1,7 @@
 import { test, expect } from '@playwright/test';
-import { testNavbar, testFooter, testAccessibility } from './common';
+import { testNavbar, testFooter, testAccessibility } from '../common';
 
-const pagePath = '/privacy_policy';
+const pagePath = '/legal/cla';
 
 test.describe('navbar and footer elements', () => {
   test.beforeEach(async ({ page }) => {
@@ -21,14 +21,14 @@ test.describe('navbar and footer elements', () => {
   });
 });
 
-test.describe('privacy_policy.md page', () => {
+test.describe('cla.md page', () => {
   test.beforeEach(async ({ page }) => {
     await page.goto(pagePath);
   });
 
   test('hero section elements', async ({ page }) => {
     // Expect a title "to contain" a substring.
-    await expect(page).toHaveTitle(/Privacy Policy/);
-    await expect(page.getByRole('heading', { name: 'Privacy Policy', exact: true })).toBeVisible();
+    await expect(page).toHaveTitle(/Contributor License Agreement/);
+    await expect(page.getByRole('heading', { name: 'Contributor License Agreement', exact: true })).toBeVisible();
   });
 });
