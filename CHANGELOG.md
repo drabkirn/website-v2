@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file.
 
+## 1.0.7 - Upgrade dependencies (8 Feb 2026)
+### Changes
+- Upgraded all dependencies to prevent vulnerabilities
+
 ## 1.0.6 - Accessibility Tests Added
 ### Changes
 - Added Axe Accessibility tests via Playwright to all pages
