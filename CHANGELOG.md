@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file.
 
+## 1.1.0 - Upgrade Playwright to 1.60.0 (6 Jun 2026)
+### Changes
+- Upgrade Playwright to 1.60.0
+
+## 1.0.9 - Upgrade to Astro 6 (6 Jun 2026)
+### Changes
+- Upgrade to Astro `6.4.4`
+- Upgrade vulnerabilities
+
 ## 1.0.8 - Enable analytics tracking (6 Jun 2026)
 ### Changes
 - Removed `data-do-not-track` attribute from Webuma analytics script to enable tracking
