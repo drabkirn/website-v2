@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file.
 
+## 1.1.1 - Add CLAUDE.md (6 Jun 2026)
+### Changes
+- Added `CLAUDE.md` with build/test commands and architecture guidance for Claude Code
+- Added `CLAUDE.md` to `.gitignore`
+
 ## 1.1.0 - Upgrade Playwright to 1.60.0 (6 Jun 2026)
 ### Changes
 - Upgrade Playwright to 1.60.0
