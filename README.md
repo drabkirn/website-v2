@@ -8,7 +8,7 @@
 
 > The codebase for website of Drabkirn.
 
-[![Astro 5.14.6](https://img.shields.io/badge/Astro-v5.14.6-blue.svg)](https://astro.build/)
+[![Astro 6.4.4](https://img.shields.io/badge/Astro-v6.4.4-blue.svg)](https://astro.build/)
 [![Playwright 1.56](https://img.shields.io/badge/Playwright-v1.56-orange.svg)](https://playwright.dev)
 [![Issues](https://img.shields.io/github/issues/drabkirn/website-v2.svg)](https://github.com/drabkirn/website-v2/issues)
 [![Issues closed](https://img.shields.io/github/issues-closed/drabkirn/website-v2.svg)](https://github.com/drabkirn/website-v2/issues)
