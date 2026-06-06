@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file.
 
+## 1.0.8 - Enable analytics tracking (6 Jun 2026)
+### Changes
+- Removed `data-do-not-track` attribute from Webuma analytics script to enable tracking
+
 ## 1.0.7 - Upgrade dependencies (8 Feb 2026)
 ### Changes
 - Upgraded all dependencies to prevent vulnerabilities
