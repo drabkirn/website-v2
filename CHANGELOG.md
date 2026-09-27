@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file.
 
+## 1.2.0 - Upgrade to Astro 7 and dependencies (27 Sep 2026)
+### Changes
+- Upgrade Astro from 6.4.4 to 7.3.5 (Vite 8, Rust compiler, Sätteri Markdown processor, `compressHTML: 'jsx'` default)
+- Upgrade `astro-purgecss` from 6 to 7 (required for Astro 7)
+- Upgrade `@astrojs/sitemap` to 3.7.4
+- Upgrade `cssnano` and `cssnano-preset-advanced` from 7 to 9 (requires Node `^22.22.3 || ^24.15.0 || >=26.0`)
+- Upgrade `autoprefixer` to 10.6.1
+- Upgrade Playwright to 1.63.0
+- Upgrade `@axe-core/playwright` to 4.13.0
+- Upgrade `@types/node` from 25 to 26
+
 ## 1.1.1 - Add CLAUDE.md (6 Jun 2026)
 ### Changes
 - Added `CLAUDE.md` with build/test commands and architecture guidance for Claude Code

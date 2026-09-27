@@ -9,18 +9,18 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/sitemap": "^3.7.3",
-    "astro": "^6.4.4",
-    "astro-purgecss": "^6.0.1",
-    "autoprefixer": "^10.4.21",
+    "@astrojs/sitemap": "^3.7.4",
+    "astro": "^7.3.5",
+    "astro-purgecss": "^7.0.0",
+    "autoprefixer": "^10.6.1",
     "bootstrap": "^5.3.8",
-    "cssnano": "^7.1.1",
-    "cssnano-preset-advanced": "^7.0.9",
+    "cssnano": "^9.0.5",
+    "cssnano-preset-advanced": "^9.0.5",
     "purgecss": "^8.0.0"
   },
   "devDependencies": {
-    "@axe-core/playwright": "^4.11.3",
-    "@playwright/test": "^1.60.0",
-    "@types/node": "^25.9.2"
+    "@axe-core/playwright": "^4.13.0",
+    "@playwright/test": "^1.63.0",
+    "@types/node": "^26.6.3"
   }
 }
