@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.7.4",
-    "astro": "^7.3.5",
+    "astro": "^7.4.12",
     "astro-purgecss": "^7.0.0",
     "autoprefixer": "^10.6.1",
     "bootstrap": "^5.3.8",
